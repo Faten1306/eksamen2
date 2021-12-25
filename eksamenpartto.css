@@ -1,0 +1,501 @@
+body{
+    background-color: #d4e0e1;
+    margin-left: 0;
+    margin-right:0;
+
+}
+
+.photoshop{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.start{
+    display: flex;
+    justify-content: center;
+}
+
+.tektportfolio{
+    background-color:#B6CCD1;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    border-radius: 27px;
+    max-width: fit-content;
+    margin-top: 8px;
+    margin-left: 65px;
+    padding-left: 8px;
+    padding-right: 10px;
+    font-family:Georgia;
+    font-weight: 100;
+    font-size: 40px;
+}
+
+.mig p{
+    font-size: 15px;
+    font-family: Arial;
+    margin-top: -25px;
+}
+p.ikkeluft{
+margin-top: -9px;
+}
+
+.tekstkompe{
+    background-color: #B6CCD1;
+    color: #fff;
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 5px;
+    font-family: Georgia;
+    font-weight: 100;
+    font-size: 18px;
+}
+.psundertitel{
+    margin-left: 10px;
+    font-size: 25px;
+    margin-top: -9px;
+    font-family: Georgia;
+
+}
+
+.tekstphoto{
+    font-family: Arial;
+    font-size: 15px;
+    margin-top: -16px;
+}
+
+.ommig{
+    background-color: #B6CCD1;
+    color: #fff;
+    display: flex;
+    font-size: 25px;
+    justify-content: flex-start;
+    border-radius: 20px;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-bottom: 7px;
+    margin-left: 2px;
+    max-width: fit-content;
+    font-weight: 100;
+    font-family: Georgia;
+}
+
+p{
+    color: #000;
+    padding-left: 10px;
+    font-size: 3vw;
+    margin-top: -12px;
+}
+
+hr{
+    color: #fff;
+    border: 1px solid white;
+
+
+
+}
+
+.img.photoshop2{
+    background-color: #B6CCD1;
+    font-size: 4.7vw;
+    color: #fff;
+    display: flex;
+    justify-content: flex-start;
+    max-width: fit-content;
+    padding-right: 14px;
+    padding-left: 14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 27px;
+    margin-left: 5px;
+    margin-top: -4px;
+    font-family: Georgia;
+    font-weight: 100;
+}
+
+img.photoshop2{
+    max-width: 70%;
+    margin-left: 90px;
+}
+
+.tekstførstepsbillede{
+    background-color: #B6CCD1;
+    font-size: 5.7vw;
+    color: #fff;
+    display: flex;
+    justify-content: flex-start;
+    max-width: fit-content;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-top: 7px;
+    font-family: Georgia;
+    font-weight: 100;
+}
+
+img.photoshopbillede{
+    width: 50%;
+    display: flex;
+  margin-left: 2%;
+  margin-top: -18px;
+
+}
+
+.indesignundertittel{
+font-family: Georgia;
+font-size: 25px;
+margin-top: 18px;
+margin-left: 8px;
+}
+.tekstindesign{
+   margin-top: -17px;
+   margin-left: -5px;
+   font-size: 15px;
+   font-family: Arial;
+}
+
+.inspi{
+margin-left: 6px;
+margin-top: -4px;
+font-family: Arial;
+}
+
+img.inspirationsmoodboard{
+width: 70%; 
+display: flex;
+justify-content: center;
+margin-top: -20px;
+margin-left: 4px;
+}
+
+.præsmood{
+text-align: right;
+margin-right: 30px;
+margin-top: 3px;
+font-family: Arial;
+}
+
+img.præsentationsmoodboard{
+width:70%;
+  display:flex;  
+  justify-content: right;
+  margin-left: 27%;
+  margin-top: -20px;
+
+}
+
+.førstemood{
+    background-color: #B6CCD1;
+    font-size: 20px;
+    color: #fff;
+    display: flex;
+    justify-content: flex-start;
+    max-width: fit-content;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 20px;
+    margin-left: 5px;
+    font-family: Georgia;
+    font-weight: 100;
+}
+
+img.moodboardblue{
+width: 90%;
+display: flex;
+justify-content: left;
+margin-top: -11px;
+margin-left: 2.7%;
+}
+
+.abdodeafter{
+    font-size: 27px;
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    padding-right: 12px;
+    font-family: Georgia;
+    margin-left: 10px;
+    
+}
+
+.tekstvideo{
+    font-size: 15px;
+margin-right: 5px;
+margin-top: -18px;
+font-family: Arial;
+}
+
+img.Sketch{
+width: 90%;
+display: flex;
+justify-content: left;
+margin-left: 10px;
+margin-top: -9px;
+}
+
+img.redigering{
+width: 90%;
+display: flex;
+margin-top: 6px;
+margin-left: 12.6px;
+}
+
+.kompefritid{
+    font-size: 19px;
+    background-color:#B6CCD1;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    margin-top: 8px;
+    max-width: fit-content;
+    margin-left: 11px;
+padding-right: 10px;
+padding-left: 10px;
+font-family: Georgia;
+font-weight: 100;
+}
+
+.eventdesigns{
+margin-left: 20px;
+margin-top: -14px;
+font-family: Georgia;
+font-size: 25px;
+}
+
+.tekstevent{
+font-size: 15px;
+margin: -30px 0px 3px 12px;
+font-family: Arial;
+}
+
+img.babyshower{
+width: 90.6%;
+display: flex;
+justify-content: flex-end;
+margin: 3px 0px 0px 18px;
+}
+
+img.forlovelse{
+    width: 90.6%;
+    display: flex;
+    justify-content: flex-end;
+    margin: 12px 0px 0px 18px
+}
+
+.sweatshirt{
+    text-align: left;
+    margin: 9px 0px 0px 17px;
+    font-family: Georgia;
+    font-size: 20px;
+    
+}
+
+.tekstsweat{
+font-size: 15px;
+margin: 2px 0px 0px 6px;
+font-family: Arial;
+}
+
+img.sweatshirt{
+width: 90%;
+display: flex;
+justify-content: center;
+
+}
+
+.cv{
+    background-color:#B6CCD1;
+    font-size: 30px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    border-radius: 27px;
+    margin: 8px 1px 0px 15px; 
+    max-width: fit-content;
+    padding: 10px 20px 10px 20px;
+    font-family: Georgia;
+}
+
+.tekstliste{
+ list-style-type: none;
+ margin: 6px 0px 0px 0px;
+ font-family: Arial;
+}
+
+.tekstliste li{
+    margin: 4px 0px 0px -12px;
+    font-family: Arial;
+}
+
+.kontakt{
+    font-size: 7px;
+    margin-left: 60px;
+    font-family: Georgia;
+    margin-top: 13px;
+}
+
+@media screen  and (min-width:768px){
+.photoshop{
+    max-width: 40%;
+    margin-left: 430px;
+}
+
+.tektportfolio{
+margin-left: 530px;
+font-size: 68px;
+border-radius: 28px;
+}
+
+.ommig{
+    font-size: 40px;
+    border-radius: 50px;
+}
+
+p.ikkeluft{
+    margin-top: -28px;
+    font-size: 25px;
+}
+
+.mig p{
+font-size: 25px;
+}
+
+.tekstkompe{
+    font-size: 40px;
+    padding-left: 2px;
+    padding-top: 2x;
+    max-width: fit-content;
+}
+
+.psundertitel{
+    font-size: 40px;
+    margin-top: -36px;
+}
+
+.tekstphoto{
+    font-size: 30px;
+    margin-top: -30px;
+}
+
+img.photoshop2{
+    margin-left: 300px;
+    width: 40%;
+}
+
+.tekstførstepsbillede{
+    font-size: 45px;
+    border-radius: 27px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+img.photoshopbillede{
+    width: 40%;
+}
+
+.indesignundertittel{
+    font-size: 40px;
+    margin-left: 20px;
+}
+
+.tekstindesign{
+    font-size: 25px;
+    margin-left: 11px;
+    margin-top: -40px;
+}
+.inspi{
+font-size: 25px;
+margin-top: 5px;
+}
+img.inspirationsmoodboard{
+    width: 50%;
+}
+.præsmood{
+    font-size: 25px;
+    margin-right: 518px;
+    margin-top: 30px;
+}
+img.præsentationsmoodboard{
+    width: 50%;
+    margin-left: 600px;
+    margin-top: -25px;
+}
+.førstemood{
+    font-size: 40px;
+}
+
+img.moodboardblue{
+    width: 60%;
+    margin-left: 12px;
+    margin-top: -30px;
+}
+.abdodeafter{
+    font-size: 40px;
+}
+
+.tekstvideo{
+    font-size: 25px;
+    margin-top: -40px;
+}
+
+img.Sketch{
+    width: 55%;
+}
+
+img.redigering{
+    width: 55%;
+}
+.kompefritid{
+    font-size: 40px;
+}
+.eventdesigns{
+    font-size: 35px;
+    margin-top: -50px;
+}
+.tekstevent{
+    font-size: 27px;
+    margin-top: -40px;
+}
+
+img.babyshower{
+    width: 30%;
+    margin-top: 12px;
+}
+
+img.forlovelse{
+    width: 30%;
+    margin-left: 500px;
+    margin-top: -769px;
+}
+.sweatshirt{
+    font-size: 40px;
+}
+
+.tekstsweat{
+    font-size: 25px;
+}
+
+img.sweatshirt{
+    width: 40%;
+}
+.cv{
+    font-size: 40px;
+}
+.tekstliste{
+    font-size: 25px;
+}
+
+.kontakt{
+    margin-left: 420px;
+    font-size: 17px;
+    margin-top: 70px;
+}
+}
